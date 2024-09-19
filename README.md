@@ -8,13 +8,18 @@
 ### About Me 👋
 I’m a passionate **Software Engineer** and a recent graduate from **San Francisco State University**, where I graduated with a **Bachelors in Computer Science**. I have a solid understanding of computer science fundamentals and an eagerness to tackle real-world software challenges!
 
+### 🛠️ Current Projects
+- 🔭 Working on a **Sneaker Price Tracker** using Node.js, React, AWS Lambda.
+- 🌱 Learning **Go** and **cloud infrastructure** to enhance my backend skills.
+- 🤝 Looking to collaborate on **open-source projects** in AI or web development.
+
 ---
 
 ### 🛠️ Technical Skills
 #### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,4 +41,10 @@ I’m a passionate **Software Engineer** and a recent graduate from **San Franci
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsnilloC&layout=compact)](https://github.com/gsnilloC)
+
+
+
 
