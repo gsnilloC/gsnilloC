@@ -9,7 +9,7 @@
 I’m a  **Software Engineer** and a recent graduate from **San Francisco State University**, where I graduated with a **Bachelors in Computer Science**. I have a solid understanding of computer science fundamentals and an eagerness to tackle real-world software challenges!
 
 ### 🛠️ Current Projects
--  Working on a **Sneaker Price Tracker** using Node.js, React, AWS Lambda.
+- Working on a **Rug Selling Website** for a friend, check it out here: [CYO Rugs Repository](https://github.com/gsnilloC/cyo-rugs)
 -  Learning **Go** and **cloud infrastructure** to enhance my backend skills.
 -  Looking to collaborate on **open-source projects** in AI or web development.
 
