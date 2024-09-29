@@ -1,7 +1,6 @@
 # 👨🏾‍💻 Collins Gichohi - Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/collinsgichohi/)](https://www.linkedin.com/in/collinsgichohi/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/gsnilloC)](https://github.com/gsnilloC)
 
 ---
 
