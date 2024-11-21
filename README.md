@@ -1,11 +1,11 @@
-# 👨🏾‍💻 Collins Gichohi - Software Engineer
+# 👨🏾‍💻 Collins Gichohi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/collinsgichohi/)](https://www.linkedin.com/in/collinsgichohi/)
 
 ---
 
 ### About Me 👋
-I’m a  **Software Engineer** and a recent graduate from **San Francisco State University**, where I graduated with a **Bachelors in Computer Science**. I have a solid understanding of computer science fundamentals and an eagerness to tackle real-world software challenges!
+I’m a recent graduate from **San Francisco State University**, where I graduated with a **Bachelors in Computer Science**. I have a solid understanding of computer science fundamentals and an eagerness to tackle real-world software challenges!
 
 ### 🛠️ Current Projects
 - Working on a **Rug Selling Website** for a small business, check it out here: [CYO Rugs Repository](https://github.com/gsnilloC/cyo-rugs)
