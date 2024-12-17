@@ -10,7 +10,7 @@ I’m a recent graduate from **San Francisco State University**, where I graduat
 ### 🛠️ Current Projects
 - Working on a **Rug Selling Website** for a small business, check it out here: [CYO Rugs Repository](https://github.com/gsnilloC/cyo-rugs)
 -  Learning **Go** and **cloud infrastructure** to enhance my backend skills.
--  Looking for **New Grad Software Engineering roles** and to collaborate on **open-source projects** in AI or web development.
+-  Looking for **New Grad roles** and to collaborate on **open-source projects** in AI or web development.
 
 ---
 
